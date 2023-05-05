@@ -12,9 +12,14 @@ console.log("I am your Instructor")
 const helloWorld =() => {
     //======WRITE YOUR CODE (PROMPT-1)======//
     
-    
+    // this is my single line comment
 
-    console.log();
+    /*
+        This is my 
+        multiline comment
+    */
+
+    console.log("Hello Javascript");
     
 
     //======YOUR CODE ENDS (PROMPT-1)======//
